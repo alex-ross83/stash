@@ -3,3 +3,5 @@ BigA/obj/
 BigM/bin/
 BigM/obj/
 Common/obj/
+*.suo
+QAndA.v12.suo

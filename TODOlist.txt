@@ -1,0 +1,9 @@
+Pending
+Big M:	
+	Find an element in a balanced tree
+
+X:
+	Quick Sort
+	Heap Sort
+	Merge Sort
+	Insertion Sort
